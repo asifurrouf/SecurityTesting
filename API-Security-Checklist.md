@@ -73,5 +73,13 @@ Checklist of the most important security countermeasures when designing, testing
 Feel free to contribute by forking this repository, making some changes, and submitting pull requests. For any questions drop us an email at `team@shieldfy.io`.
 
 ## OWASP LINKS
+
 [REST_Security_Cheat_Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
 [Enterprise_Security_API](https://www.owasp.org/index.php/Category:OWASP_Enterprise_Security_API)
+
+## Guidelines
+
+[State of API Security](https://www.soapui.org/testing-dojo/world-of-api-testing/state-of-api-security.html)
+[API Security Basics](https://www.roguewave.com/products-services/akana/solutions/api-security)
+[API security: Ways to authenticate and authorize](https://blogs.mulesoft.com/dev/api-dev/api-security-ways-to-authenticate-and-authorize/)
+[Top 5 REST API Security Guidelines ](https://dzone.com/articles/top-5-rest-api-security-guidelines)
