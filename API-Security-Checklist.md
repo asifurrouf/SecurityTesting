@@ -71,3 +71,7 @@ Checklist of the most important security countermeasures when designing, testing
 
 # Contribution
 Feel free to contribute by forking this repository, making some changes, and submitting pull requests. For any questions drop us an email at `team@shieldfy.io`.
+
+## OWASP LINKS
+[REST_Security_Cheat_Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
+[Enterprise_Security_API](https://www.owasp.org/index.php/Category:OWASP_Enterprise_Security_API)
